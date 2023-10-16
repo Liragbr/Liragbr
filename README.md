@@ -1,3 +1,5 @@
+![MasterHead](https://i.pinimg.com/originals/b4/53/c8/b453c862745f1af4fac41d40dd862996.gif)
+
 ## ❄️ Gabriel Lira
 **`Software Developer (Student)`**
 
@@ -17,7 +19,3 @@ I'm a dedicated technology professional on a journey in the world of software de
 <a href="https://instagram.com/liragbr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/liragbr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
-
-
-

@@ -1,5 +1,3 @@
-![Banner GIF](https://i.pinimg.com/originals/75/78/8b/75788b72da09dda3c43418725021a5df.gif)
-
 ## ❄️ Gabriel Lira
 **`Software Developer (Student)`**
 

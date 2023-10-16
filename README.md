@@ -14,6 +14,9 @@ I'm a dedicated technology professional on a journey in the world of software de
 <a href="https://linkedin.com/in/Liragbr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Liragbr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://instagram.com/liragbr" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/liragbr-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
 
 

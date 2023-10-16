@@ -1,6 +1,6 @@
-![MasterHead]("https://i.pinimg.com/originals/1a/ca/14/1aca1432f8a8f93d4bd0932a8c0a6449.gif")
+![Banner GIF]("https://i.pinimg.com/originals/c1/60/bb/c160bb331501d365626751acd3bc58e3.gif")
 
-# ❄️ Gabriel Lira
+## ❄️ Gabriel Lira
 **`Software Developer (Student)`**
 
 I'm a dedicated technology professional on a journey in the world of software development. With a strong foundation in Python and C#, I'm well-versed in building applications and software solutions. My experience spans across the realms of .NET Framework and .NET Core, with a keen focus on robust cybersecurity practices and GDPR compliance.

@@ -1,4 +1,4 @@
-![Banner GIF]("https://i.pinimg.com/originals/c1/60/bb/c160bb331501d365626751acd3bc58e3.gif")
+![Banner GIF](https://i.pinimg.com/originals/75/78/8b/75788b72da09dda3c43418725021a5df.gif)
 
 ## ❄️ Gabriel Lira
 **`Software Developer (Student)`**

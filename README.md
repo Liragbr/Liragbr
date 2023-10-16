@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/be/14/99/be149970052adc6ebb8f9f3588802d2e.gif)
+![MasterHead]("https://i.pinimg.com/originals/1a/ca/14/1aca1432f8a8f93d4bd0932a8c0a6449.gif")
 
 # ❄️ Gabriel Lira
 **`Software Developer (Student)`**

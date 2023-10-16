@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/be/14/99/be149970052adc6ebb8f9f3588802d2e.gif">
+[![MasterHead](https://i.pinimg.com/originals/be/14/99/be149970052adc6ebb8f9f3588802d2e.gif)
 
 # ❄️ Gabriel Lira
 **`Software Developer (Student)`**

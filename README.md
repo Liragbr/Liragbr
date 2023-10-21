@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/b4/53/c8/b453c862745f1af4fac41d40dd862996.gif)
 
-## ❄️ Gabriel Lira
+# ❄️ Gabriel Lira
 **`Software Developer (Student)`**
 
 I'm a dedicated technology professional on a journey in the world of software development. With a strong foundation in Python and C#, I'm well-versed in building applications and software solutions. My experience spans across the realms of .NET Framework and .NET Core, with a keen focus on robust cybersecurity practices and GDPR compliance.
@@ -14,7 +14,7 @@ I'm a dedicated technology professional on a journey in the world of software de
 <br>
 <br>
 
-# Contact 
+### Contact 
 
 <a href="https://linkedin.com/in/Liragbr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Liragbr-05122A?style=flat&logo=linkedin" alt="linkedin"/>

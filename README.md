@@ -11,14 +11,12 @@ I'm a dedicated technology professional on a journey in the world of software de
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 
-
-
 <br>
 <br>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Contact
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 <a href="https://linkedin.com/in/Liragbr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Liragbr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>

@@ -25,4 +25,7 @@ I'm a dedicated technology professional on a journey in the world of software de
  <img align="center" src="https://img.shields.io/badge/liragbr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=Gmail&link=gabriel.lira.max%40gmail.com">
+<a href="Gabriel.lira.max@gmail.com" target="_blank">
+  <img align="center" src="<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=Gmail">
+alt="gmail"/>
+</a>

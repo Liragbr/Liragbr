@@ -9,6 +9,9 @@ I'm a dedicated technology professional on a journey in the world of software de
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+
+
 
 <br>
 <br>

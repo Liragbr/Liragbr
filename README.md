@@ -16,6 +16,9 @@ I'm a dedicated technology professional on a journey in the world of software de
 <br>
 <br>
 
+![Gmail](https://img.shields.io/badge/gabriel.lira
+max@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ## Contact
 <a href="https://linkedin.com/in/Liragbr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Liragbr-05122A?style=flat&logo=linkedin" alt="linkedin"/>

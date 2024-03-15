@@ -16,7 +16,7 @@ I'm a dedicated technology professional on a journey in the world of software de
 
 ### Contact 
 
-<a href="https://linkedin.com/in/Liragbr" target="_blank">
+<a href="https://www.linkedin.com/in/liragbr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Liragbr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 

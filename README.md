@@ -8,10 +8,13 @@
 
 I have skills in programming languages such as Python, C#, C++, with significant experience in developing applications using .NET Core and .NET Framework. My passion for programming has led me to explore innovative solutions for complex challenges. 
 Furthermore, I possess advanced skills in pentesting and buffer overflow for pentest, demonstrating a profound interest in cybersecurity. I am capable of implementing robust protective measures to ensure the integrity of the system and data, often integrating security features. I stay constantly updated on privacy regulations and can assist in compliance and implementation of best practices in this critical area.
+
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Liragbr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liragbr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<br>
 
 ###
 

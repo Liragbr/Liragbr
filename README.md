@@ -20,7 +20,7 @@ Furthermore, I possess advanced skills in pentesting and buffer overflow for pen
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="windows8 logo"  />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows8 logo"  />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="38" alt="dotnetcore logo"  />
 
 
@@ -29,7 +29,7 @@ Furthermore, I possess advanced skills in pentesting and buffer overflow for pen
 <div>
   
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="38" alt="visualstudio logo"  />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="38" alt="vim logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo"  />

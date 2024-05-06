@@ -33,8 +33,9 @@ Furthermore, I possess advanced skills in pentesting and buffer overflow for pen
 
 <br>
 <br>
+<br>
+
 <div>
-  
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="38" alt="vim logo"  />

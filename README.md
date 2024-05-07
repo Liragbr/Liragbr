@@ -1,14 +1,16 @@
 <!---![MasterHead](https://i.pinimg.com/originals/b4/53/c8/b453c862745f1af4fac41d40dd862996.gif)--->
 <!---![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)--->
+
 ![MasterHead](https://i.pinimg.com/originals/3e/f4/af/3ef4afcb6310b5aabe0bc917413a9f44.gif)
-
-###
-
+<div align="center">
+  
 # ❄️ Gabriel Lira
 **`Software Developer / Information Security`**
 
-I have skills in programming languages such as Python, C#, C++, with significant experience in developing applications using .NET Core and .NET Framework. My passion for programming has led me to explore innovative solutions for complex challenges. 
-Furthermore, I possess advanced skills in pentesting and buffer overflow for pentest, demonstrating a profound interest in cybersecurity. I am capable of implementing robust protective measures to ensure the integrity of the system and data, often integrating security features. I stay constantly updated on privacy regulations and can assist in compliance and implementation of best practices in this critical area.
+
+I have skills in programming languages such as Python, C#, C++, with significant experience in developing applications using .NET Core and .NET Framework. My passion for programming has led me to explore innovative solutions for complex challenges. Furthermore, I possess advanced skills in pentesting and buffer overflow for pentest, demonstrating a profound interest in cybersecurity. I am capable of implementing robust protective measures to ensure the integrity of the system and data, often integrating security features. I stay constantly updated on privacy regulations and can assist in compliance and implementation of best practices in this critical area.
+</div>
+
 
 <br>
 <div align="center">

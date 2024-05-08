@@ -41,6 +41,8 @@ I have skills in programming languages such as Python, C#, C++, with significant
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="38" alt="vim logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker logo"  />
+  <!--<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="38" alt="Kali Linux logo" />-->
+  
 </div>
 
 ###
@@ -59,3 +61,4 @@ I have skills in programming languages such as Python, C#, C++, with significant
   <a href="https://discord.com/users/1225144386514583633" >
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
   </a>
+

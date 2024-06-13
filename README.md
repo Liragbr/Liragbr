@@ -1,9 +1,7 @@
 <!---![MasterHead](https://i.pinimg.com/originals/b4/53/c8/b453c862745f1af4fac41d40dd862996.gif)--->
-<!---![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)--->
+<!---![MasterHead](https://i.pinimg.com/originals/51/3b/f9/513bf92cb814435d66ac9c0e048e2a73.gif)--->
+![MasterHead](https://i.pinimg.com/originals/3e/f4/af/3ef4afcb6310b5aabe0bc917413a9f44.gif)
 
-![MasterHead](https://i.pinimg.com/originals/51/3b/f9/513bf92cb814435d66ac9c0e048e2a73.gif)
-
-<!---![MasterHead](https://i.pinimg.com/originals/3e/f4/af/3ef4afcb6310b5aabe0bc917413a9f44.gif)--->
 <div align="center">
   
 # ❄️ Gabriel Lira

@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# ❄️ Gabriel Lira
+# 💫 Gabriel Lira
 **`Software Developer / Information Security`**
 
 

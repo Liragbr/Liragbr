@@ -8,7 +8,7 @@
 **`Software Developer / Information Security`**
 
 
-I have skills in programming languages such as Python, C#, C++, with significant experience in developing applications using .NET Core and .NET Framework. My passion for programming has led me to explore innovative solutions for complex challenges. Furthermore, I possess advanced skills in pentesting and buffer overflow for pentest, demonstrating a profound interest in cybersecurity. I am capable of implementing robust protective measures to ensure the integrity of the system and data, often integrating security features. I stay constantly updated on privacy regulations and can assist in compliance and implementation of best practices in this critical area.
+I have skills in programming languages such as Python, C#, C++, with significant experience in developing applications using .NET Core and .NET Framework. My passion for programming has led me to explore innovative solutions for complex challenges. Furthermore, I possess skills in pentesting, demonstrating a profound interest in cybersecurity. I am capable of implementing robust protective measures to ensure the integrity of the system and data, often integrating security features. I stay constantly updated on privacy regulations and can assist in compliance and implementation of best practices in this critical area.
 </div>
 
 

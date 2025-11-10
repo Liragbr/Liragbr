@@ -35,12 +35,8 @@ Proficient in C#, with extensive experience in developing applications using .NE
 <br>
 
 <div>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="38" alt="vim logo"  />
-  <img align="left" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" height="38" alt="Sublime Text"  /> 
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
+  <img align="left" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" height="38" alt="Sublime Text"  />  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
  
 
  

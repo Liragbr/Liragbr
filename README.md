@@ -25,10 +25,8 @@ Proficient in C#, with extensive experience in developing applications using .NE
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="38" alt="dotnetcore logo"  />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" alt="Kali Linux logo" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows8 logo"  />
-
+<img align="left" 
 
 
 

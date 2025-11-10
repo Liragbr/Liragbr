@@ -23,7 +23,6 @@ I firmly believe that building secure software starts with incorporating these p
 <img alt="C++" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="Kali Linux" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"/>
 <img alt="Vim" height="38px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
-<img alt="Sublime Text" height="38px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg"/>
 <img alt="Linux" height="38px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 </div>

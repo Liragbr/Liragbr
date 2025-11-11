@@ -40,9 +40,4 @@ I firmly believe that building secure software starts with incorporating these p
 <a href="mailto:liraadev@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo"/>
 </a>
-
-<a href="https://www.instagram.com/liragbr/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram logo"/>
-</a>
-
 </div>

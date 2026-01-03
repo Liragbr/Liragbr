@@ -4,7 +4,7 @@
 
 # Gabriel Lira  
 **`Software Developer / Information Security`**
-
+-
 A professional specializing in Cybersecurity and Back-End Development, with experience in projects focused on secure and scalable system architecture. I possess knowledge in vulnerability management, implementation of security policies, and development of robust APIs, as well as experience in strengthening critical environments against threats.
 
 </div>

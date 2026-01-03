@@ -2,13 +2,9 @@
 
 <div align="center">
 
-# 💫 Gabriel Lira  
+# Gabriel Lira  
 **`Software Developer / Information Security`**
-
-Proficient in C#, with extensive experience in developing applications using .NET Core and .NET Framework.  
-In addition, I possess skills in penetration testing and cybersecurity, where my approach focuses on proactive measures such as implementing secure coding practices.  
-These practices ensure the integrity and confidentiality of data, while I always prioritize the search for efficient solutions.  
-I firmly believe that building secure software starts with incorporating these practices from the beginning of the development lifecycle.
+ 
 
 </div>
 

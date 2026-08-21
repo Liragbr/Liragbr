@@ -2,12 +2,11 @@
 
 <div align="center">
 
-# Lira  
-**`Software Developer / Information Security`**
+# Liragbr
+**`Cybersecurity Analyst / Security Engineer`**
 
 
-A professional specializing in Cybersecurity and Back-End Development, with experience in projects focused on secure and scalable system architecture. I possess knowledge in vulnerability management, implementation of security policies, and development of robust APIs, as well as experience in strengthening critical environments against threats.
-
+Security-focused developer building offensive and defensive tools in Python, C# and C++. Interested in network analysis, OSINT, and low-level security research.
 </div>
 
 ## 🛠️ Languages and Tools  
